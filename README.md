@@ -11,8 +11,11 @@ New Era University
 2021-Present
 
 ## Certification
+
 NoSQL and DBaaS 101
+
 Oracle Cloud Data Management 2023 Certified Foundations Associate
+
 Oracle Cloud Infrastructure 2023 Certified Foundations Associate
 
 
