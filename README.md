@@ -12,7 +12,7 @@ New Era University
 
 ## Certification
 
-NoSQL and DBaaS 101
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/71c0a531530b42f3b80fe7809269212b)
 
 Oracle Cloud Data Management 2023 Certified Foundations Associate
 
