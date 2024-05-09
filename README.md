@@ -1,6 +1,6 @@
 ## About me
 
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+I am Patrick Anthony P. Maquiling, I am a passionate and dedicated IT student with a keen interest in exploring and mastering various aspects of technology. With a strong foundation in computer science and a curiosity-driven mindset, I constantly seek opportunities to enhance my skills and knowledge in the ever-evolving field of information technology.
 
 ## Education
 
@@ -30,4 +30,4 @@ Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 LinkedIn: LinkedIn profile link
 
-Email: juandelacruz@gmail.com
+Email: pmaquiling64@gmail.com
