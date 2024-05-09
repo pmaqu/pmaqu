@@ -14,10 +14,6 @@ New Era University
 
 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/71c0a531530b42f3b80fe7809269212b)
 
-Oracle Cloud Data Management 2023 Certified Foundations Associate
-
-Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-
 
 ## Skill sets
 Programming :  Java, Javascript
@@ -28,6 +24,6 @@ Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at
 
-LinkedIn: LinkedIn profile link
+[My LinkedIn profile](https://www.linkedin.com/in/patrick-anthony-p-maquiling-5958892b7/)
 
 Email: pmaquiling64@gmail.com
